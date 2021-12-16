@@ -6,6 +6,8 @@
 
 [菜鸟教程](https://www.runoob.com/)：提供了编程的基础技术教程
 
+[leetcode](https://leetcode-cn.com/)：极客挚爱的算法训练平台
+
 ## 图片资源类
 
 [彼岸图网](https://pic.netbian.com/)：高清壁纸免费下载
